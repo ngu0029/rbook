@@ -5,3 +5,4 @@ Cleaning data: Noise data
 
 ### Bookdown and RMarkdown
 - [R Markdown Features - Many Tricks](https://yongfu.name/Rmd_ref/)
+- [Writing your thesis with R Markdown (3) – Figures, R code and tables](https://rosannavanhespenresearch.wordpress.com/2016/03/18/writing-your-thesis-with-r-markdown-3-figures-r-code-and-tables/)
