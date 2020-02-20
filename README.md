@@ -7,3 +7,6 @@ Cleaning data: Noise data
 ### Bookdown and RMarkdown
 - [R Markdown Features - Many Tricks](https://yongfu.name/Rmd_ref/)
 - [Writing your thesis with R Markdown (3) – Figures, R code and tables](https://rosannavanhespenresearch.wordpress.com/2016/03/18/writing-your-thesis-with-r-markdown-3-figures-r-code-and-tables/)
+
+### Linear Regresssion
+- [Complete Introduction to Linear Regression in R](https://www.machinelearningplus.com/machine-learning/complete-introduction-linear-regression-r/) - Building the Linear Regression Model, Linear Regression Diagnostics (Null and Alternate Hypothesis, t values, P Values, R-Squared, Adjusted R-Squared, Standard Error and F-Statistic)
