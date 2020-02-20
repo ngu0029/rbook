@@ -12,5 +12,5 @@ Cleaning data: Noise data
 - [Complete Introduction to Linear Regression in R](https://www.machinelearningplus.com/machine-learning/complete-introduction-linear-regression-r/) - Building the Linear Regression Model, Linear Regression Diagnostics (Null and Alternate Hypothesis, t values, P Values, R-Squared, Adjusted R-Squared, Standard Error and F-Statistic)
 
 ### Forecasting
-- https://medium.com/@firstclassanalyticsmg/kalman-filter-modelling-time-series-shocks-with-kfas-in-r-3f197868966b  
-- https://towardsdatascience.com/understanding-partial-auto-correlation-fa39271146ac partial auto correlation 
+- [Kalman Filter: Modelling Time Series Shocks with KFAS in R](https://medium.com/@firstclassanalyticsmg/kalman-filter-modelling-time-series-shocks-with-kfas-in-r-3f197868966b)
+- [Understanding Partial Auto-Correlation](https://towardsdatascience.com/understanding-partial-auto-correlation-fa39271146ac) partial auto correlation
