@@ -8,8 +8,9 @@ Cleaning data: Noise data
 - [R Markdown Features - Many Tricks](https://yongfu.name/Rmd_ref/)
 - [Writing your thesis with R Markdown (3) – Figures, R code and tables](https://rosannavanhespenresearch.wordpress.com/2016/03/18/writing-your-thesis-with-r-markdown-3-figures-r-code-and-tables/)
 
-### Linear Regresssion
+### Regresssion Models
 - [Complete Introduction to Linear Regression in R](https://www.machinelearningplus.com/machine-learning/complete-introduction-linear-regression-r/) - Building the Linear Regression Model, Linear Regression Diagnostics (Null and Alternate Hypothesis, t values, P Values, R-Squared, Adjusted R-Squared, Standard Error and F-Statistic)
+- https://online.stat.psu.edu/stat462/node/207/ > Logistic regression
 
 ### Forecasting
 - [Kalman Filter: Modelling Time Series Shocks with KFAS in R](https://medium.com/@firstclassanalyticsmg/kalman-filter-modelling-time-series-shocks-with-kfas-in-r-3f197868966b)
