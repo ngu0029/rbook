@@ -16,3 +16,4 @@ Cleaning data: Noise data
 - [Kalman Filter: Modelling Time Series Shocks with KFAS in R](https://medium.com/@firstclassanalyticsmg/kalman-filter-modelling-time-series-shocks-with-kfas-in-r-3f197868966b)
 - [Understanding Partial Auto-Correlation](https://towardsdatascience.com/understanding-partial-auto-correlation-fa39271146ac) partial auto correlation
 - Explain ACF and Partial ACF academically - https://online.stat.psu.edu/stat462/node/188/
+- [Tidy Time Series Analysis, Part 4: Lags and Autocorrelation](https://www.business-science.io/timeseries-analysis/2017/08/30/tidy-timeseries-analysis-pt-4.html)
