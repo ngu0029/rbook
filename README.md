@@ -18,4 +18,4 @@ Cleaning data: Noise data
 - Explain ACF and Partial ACF academically - https://online.stat.psu.edu/stat462/node/188/
 - [Tidy Time Series Analysis, Part 4: Lags and Autocorrelation](https://www.business-science.io/timeseries-analysis/2017/08/30/tidy-timeseries-analysis-pt-4.html)
 - [Autocorrelations and Partial Autocorrelations in NCSS](http://ncss.wpengine.netdna-cdn.com/wp-content/themes/ncss/pdf/Procedures/NCSS/Autocorrelations.pdf)
-- [Time series wiki](https://en.wikipedia.org/wiki/Time_series), [ARIMA Wiki](https://en.wikipedia.org/wiki/Autoregressive_integrated_moving_average)
+- [Time series wiki](https://en.wikipedia.org/wiki/Time_series), [Box–Jenkins_method wiki](https://en.wikipedia.org/wiki/Box-Jenkins_method), [ARIMA Wiki](https://en.wikipedia.org/wiki/Autoregressive_integrated_moving_average)
