@@ -31,3 +31,12 @@ Cleaning data: Noise data
 - [Open Policing Stanford Data](https://openpolicing.stanford.edu/data/), e.g. "trafficstops" dataset used in https://cengel.github.io/R-data-wrangling/dplyr.html
 Look for MS State Patrol1	 R	758,412	Jan 2013 - Jul 2016
 - [Rio Vignettes package](https://cran.r-project.org/web/packages/rio/vignettes/rio.html#data_export) > mtcars dataset
+- [Geol Choi Datasets](https://github.com/gchoi/Dataset) > HousePrices.csv, LoanData.csv, ToyotaCorolla.csv (full version on Kaggle)
+
+### Books/Resources
+[1. Introduction to R for Business Intelligence](https://resources.oreilly.com/examples/9781785280252)
+Code: 
+https://resources.oreilly.com/examples/9781785280252/tree/master/IntroductionToRForBusinessIntelligence_Code
+https://github.com/jgendron/com.packtpub.intro.r.bi
+2. Đây là một cuốn sách căn bản về phân tích dữ liệu với rất nhiều bài tập và ví dụ.
+THỐNG KÊ TRONG KINH TẾ VÀ KINH DOANH - Statistics for Business and Economics (Author: David R. Anderson | Dennis J. Sweeney | Thomas A. Williams). Mua tại 279 Nguyễn Tri Phương, ĐH Kinh tế.
