@@ -22,3 +22,12 @@ Cleaning data: Noise data
 - [Tidy Time Series Analysis, Part 4: Lags and Autocorrelation](https://www.business-science.io/timeseries-analysis/2017/08/30/tidy-timeseries-analysis-pt-4.html)
 - [Autocorrelations and Partial Autocorrelations in NCSS](http://ncss.wpengine.netdna-cdn.com/wp-content/themes/ncss/pdf/Procedures/NCSS/Autocorrelations.pdf)
 - [Time series wiki](https://en.wikipedia.org/wiki/Time_series), [Box–Jenkins_method wiki](https://en.wikipedia.org/wiki/Box-Jenkins_method), [ARIMA Wiki](https://en.wikipedia.org/wiki/Autoregressive_integrated_moving_average)
+
+### R Datasets
+- [UN Comtrade Database](https://comtrade.un.org/)
+- [Xác định đề tài là tìm vấn đề làm đối tượng nghiên cứu (Bai 11): Hàm cầu cá hồi ở Nauy](http://cesti.gov.vn/tai-lieu/240110/4/-X%C3%A2y-d%E1%BB%B1ng-m%C3%B4-h%C3%ACnh-h%C3%A0m-c%E1%BA%A7u-s%E1%BA%A3n-ph%E1%BA%A9m-c%C3%A1-H%E1%BB%93i-c%E1%BB%A7a-Na---Uy-%E1%BB%9F-Vi%E1%BB%87t-Nam---Ph%E1%BA%A1m-Th%C3%A0nh-Th%C3%A1i-----)
+- bit.ly/data_for_r
+- [Vincentarelbundock Rdatasets](https://vincentarelbundock.github.io/Rdatasets/datasets.html), e.g. PlantGrowth dataset
+- [Open Policing Stanford Data](https://openpolicing.stanford.edu/data/), e.g. "trafficstops" dataset used in https://cengel.github.io/R-data-wrangling/dplyr.html
+Look for MS State Patrol1	 R	758,412	Jan 2013 - Jul 2016
+- [Rio Vignettes package](https://cran.r-project.org/web/packages/rio/vignettes/rio.html#data_export) > mtcars dataset
