@@ -34,9 +34,8 @@ Look for MS State Patrol1	 R	758,412	Jan 2013 - Jul 2016
 - [Geol Choi Datasets](https://github.com/gchoi/Dataset) > HousePrices.csv, LoanData.csv, ToyotaCorolla.csv (full version on Kaggle)
 
 ### Books/Resources
-- [1. Introduction to R for Business Intelligence](https://resources.oreilly.com/examples/9781785280252)
+- [Introduction to R for Business Intelligence](https://resources.oreilly.com/examples/9781785280252)
 Code: 
 https://resources.oreilly.com/examples/9781785280252/tree/master/IntroductionToRForBusinessIntelligence_Code
 https://github.com/jgendron/com.packtpub.intro.r.bi
-- 2. Đây là một cuốn sách căn bản về phân tích dữ liệu với rất nhiều bài tập và ví dụ.
-THỐNG KÊ TRONG KINH TẾ VÀ KINH DOANH - Statistics for Business and Economics (Author: David R. Anderson | Dennis J. Sweeney | Thomas A. Williams). Mua tại 279 Nguyễn Tri Phương, ĐH Kinh tế.
+- THỐNG KÊ TRONG KINH TẾ VÀ KINH DOANH - Statistics for Business and Economics (Author: David R. Anderson | Dennis J. Sweeney | Thomas A. Williams). Đây là một cuốn sách căn bản về phân tích dữ liệu với rất nhiều bài tập và ví dụ. Mua tại 279 Nguyễn Tri Phương, ĐH Kinh tế.
