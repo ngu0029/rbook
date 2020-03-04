@@ -1,3 +1,6 @@
+### R Tutorials
+- [R Tutorial](http://r-statistics.co/R-Tutorial.html) > Missing Value Treatment, Outlier Analysis, ggplot2, Linear Regression, Logistic Regression, Model Selection, Time Series Forecasting
+
 ### Kỹ thuật làm trơn dữ liệu
 - Làm trơn (Smoothing): Loại bỏ nhiễu/lỗi khỏi dữ liệu
 - http://scholar.vimaru.edu.vn/sites/default/files/thinhnv/files/dm_-_chapter_2_-_preprocessing_0.pdf
