@@ -67,17 +67,18 @@ https://github.com/jgendron/com.packtpub.intro.r.bi
 - THỐNG KÊ TRONG KINH TẾ VÀ KINH DOANH - Statistics for Business and Economics (Author: David R. Anderson | Dennis J. Sweeney | Thomas A. Williams). Đây là một cuốn sách căn bản về phân tích dữ liệu với rất nhiều bài tập và ví dụ. Mua tại 279 Nguyễn Tri Phương, ĐH Kinh tế.
 - [Data Science and Big Data Analytics: Discovering, Analyzing, Visualizing and Presenting Data](https://amzn.to/2l7FBKp)
 > Corresponding data sets are available at www.wiley.com/go/9781118876138
+> Table of contents: refer below to write R book
 ```
-Chapter 1 Introduction to Big Data Analytics
-Chapter 2 Data Analytics Lifecycle
-Chapter 3 Review of Basic Data Analytic Methods Using R
-Chapter 4 Advanced Analytical Theory and Methods: Clustering
+Chapter 1 Introduction to Big Data Analytics (Analyst Perspective on Data Repositories, BI Versus Data Science, Drivers of Big Data, Examples of Big Data Analytics)
+Chapter 2 Data Analytics Lifecycle (Discovery -> Data Preparation -> Model Planning -> Model Building -> Communicate Results -> Operationalize)
+Chapter 3 Review of Basic Data Analytic Methods Using R (Descriptive Statistics, Visualization Before Analysis, Dirty Data, Visualizing a Single Variable, Examining Multiple Variables, Data Exploration Versus Presentation, Statistical Methods for Evaluation, Hypothesis Testing, Wilcoxon Rank-Sum Test, Type I and Type II Errors, ANOVA)
+Chapter 4 Advanced Analytical Theory and Methods: Clustering (K-means)
 Chapter 5 Advanced Analytical Theory and Methods: Association Rules
-Chapter 6 Advanced Analytical Theory and Methods: Regression
-Chapter 7 Advanced Analytical Theory and Methods: Classification
-Chapter 8 Advanced Analytical Theory and Methods: Time Series Analysis
-Chapter 9 Advanced Analytical Theory and Methods: Text Analysis
-Chapter 10 Advanced Analytics—Technology and Tools: MapReduce and Hadoop
+Chapter 6 Advanced Analytical Theory and Methods: Regression (Logistic Regression, Linear Regression)
+Chapter 7 Advanced Analytical Theory and Methods: Classification (Decision Tree, Naive Bayes)
+Chapter 8 Advanced Analytical Theory and Methods: Time Series Analysis (Box-Jenkins, ARIMA, Autocorrelation, Autoregressive, Moving Average)
+Chapter 9 Advanced Analytical Theory and Methods: Text Analysis (Steps, TFIDF, Categorizing, Sentiments)
+Chapter 10 Advanced Analytics—Technology and Tools: MapReduce and Hadoop (SQL, MapReduce, Hadoop Echosystem (Pig, Hive, HBase, Mahout), NoSQL)
 Chapter 11 Advanced Analytics—Technology and Tools: In-Database Analytics
 Chapter 12 The Endgame, or Putting It All Together
 ```
