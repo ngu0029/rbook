@@ -65,3 +65,19 @@ Look for MS State Patrol1	 R	758,412	Jan 2013 - Jul 2016
 https://resources.oreilly.com/examples/9781785280252/tree/master/IntroductionToRForBusinessIntelligence_Code
 https://github.com/jgendron/com.packtpub.intro.r.bi
 - THỐNG KÊ TRONG KINH TẾ VÀ KINH DOANH - Statistics for Business and Economics (Author: David R. Anderson | Dennis J. Sweeney | Thomas A. Williams). Đây là một cuốn sách căn bản về phân tích dữ liệu với rất nhiều bài tập và ví dụ. Mua tại 279 Nguyễn Tri Phương, ĐH Kinh tế.
+- [Data Science and Big Data Analytics: Discovering, Analyzing, Visualizing and Presenting Data](https://amzn.to/2l7FBKp)
+> Corresponding data sets are available at www.wiley.com/go/9781118876138
+```
+Chapter 1 Introduction to Big Data Analytics
+Chapter 2 Data Analytics Lifecycle
+Chapter 3 Review of Basic Data Analytic Methods Using R
+Chapter 4 Advanced Analytical Theory and Methods: Clustering
+Chapter 5 Advanced Analytical Theory and Methods: Association Rules
+Chapter 6 Advanced Analytical Theory and Methods: Regression
+Chapter 7 Advanced Analytical Theory and Methods: Classification
+Chapter 8 Advanced Analytical Theory and Methods: Time Series Analysis
+Chapter 9 Advanced Analytical Theory and Methods: Text Analysis
+Chapter 10 Advanced Analytics—Technology and Tools: MapReduce and Hadoop
+Chapter 11 Advanced Analytics—Technology and Tools: In-Database Analytics
+Chapter 12 The Endgame, or Putting It All Together
+```
