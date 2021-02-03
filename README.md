@@ -66,8 +66,8 @@ https://resources.oreilly.com/examples/9781785280252/tree/master/IntroductionToR
 https://github.com/jgendron/com.packtpub.intro.r.bi
 - THỐNG KÊ TRONG KINH TẾ VÀ KINH DOANH - Statistics for Business and Economics (Author: David R. Anderson | Dennis J. Sweeney | Thomas A. Williams). Đây là một cuốn sách căn bản về phân tích dữ liệu với rất nhiều bài tập và ví dụ. Mua tại 279 Nguyễn Tri Phương, ĐH Kinh tế.
 - [Data Science and Big Data Analytics: Discovering, Analyzing, Visualizing and Presenting Data](https://amzn.to/2l7FBKp)
-> Corresponding data sets are available at www.wiley.com/go/9781118876138
-> Table of contents: refer below to write R book
+> - Corresponding data sets are available at www.wiley.com/go/9781118876138
+> - Table of contents: refer below to **write R book**
 ```
 Chapter 1 Introduction to Big Data Analytics (Analyst Perspective on Data Repositories, BI Versus Data Science, Drivers of Big Data, Examples of Big Data Analytics)
 Chapter 2 Data Analytics Lifecycle (Discovery -> Data Preparation -> Model Planning -> Model Building -> Communicate Results -> Operationalize)
